@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    display: inline-flexbox;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 110px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#lightSwitch {
+    cursor: pointer;
+}
+
+#lightbulb {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* 	430 × 742 px Image Width * Height. 
